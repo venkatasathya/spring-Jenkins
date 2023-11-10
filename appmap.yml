@@ -1,0 +1,4 @@
+name: spring-boot-rest-example
+packages:
+- path: com.javatpoint
+- path: static
